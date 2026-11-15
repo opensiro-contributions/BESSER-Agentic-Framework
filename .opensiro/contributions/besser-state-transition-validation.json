@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "besser-state-transition-validation",
+  "original_repository": "BESSER-PEARL/BESSER-Agentic-Framework",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/besser/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-23-09.json"
+  ],
+  "title": "Automatic transition exclusivity across registration orders",
+  "work_state": "DELIVERED",
+  "next_action": "No further work while owner_control is PAUSE; revalidate on explicit RESUME",
+  "source_revision": "da46d4e2f0ae477704f7cc1108f1f6ec5209530e",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/besser/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/BESSER-PEARL/BESSER-Agentic-Framework/pull/205"
+  ],
+  "last_event_id": null
+}
